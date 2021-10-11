@@ -53,6 +53,8 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\_Scripts\PlayerController.cs" />
+     <Compile Include="Assets\_Scripts\Pokemons\PokemonBase.cs" />
+     <Compile Include="Assets\_Scripts\Pokemons\Pokemon.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Users/Boris/Documents/unity/2020.3.16f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
